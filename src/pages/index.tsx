@@ -13,7 +13,7 @@ export default () => {
       </Head>
       <p>
         Hino Typefoundry is an open source collaborative platform which focus on
-        open sources typeface for further type industry in Indonesia.
+        open source typefaces for better type industry in Indonesia.
       </p>
     </Fragment>
   );

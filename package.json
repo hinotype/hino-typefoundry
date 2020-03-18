@@ -1,7 +1,7 @@
 {
-  "name": "hino-type",
+  "name": "hino-typefoundry",
   "version": "1.0.0",
-  "description": "Official website for Hino Type. An open source collaborative platform which focus on open source typefaces for better type industry in Indonesia.",
+  "description": "Official website for Hino Typefoundry. An open source collaborative platform which focus on open source typefaces for better type industry in Indonesia.",
   "main": "index.js",
   "repository": "https://github.com/ottastudio/hino-typefoundry.git",
   "homepage": "https://github.com/ottastudio/hino-typefoundry.git",
